@@ -8,4 +8,6 @@ wireless install method:
 
 need additional assistance? contact leitherr on discord.
 
+misc: the "why im not uploading to themeplaza" zip contains screenshots on my experience in their discord server, that experience being the reason why I won't be uploading this theme or future themes to ThemePlaza. 
+
 closing thoughts: fuck themeplaza
